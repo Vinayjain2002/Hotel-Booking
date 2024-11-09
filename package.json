@@ -23,13 +23,15 @@
     "react-image-crop": "^9.0.5",
     "react-responsive-carousel": "^3.2.22",
     "react-router-dom": "^6.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "react-slick": "^0.28.1",
     "react-stripe-checkout": "^2.6.3",
     "react-toastify": "^8.1.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.3",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
